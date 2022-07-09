@@ -25,3 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshbhakkad&show_icons=true&locale=en" alt="harshbhakkad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshbhakkad&" alt="harshbhakkad" /></p>
+
+<h3>Programmer's Quote of the Day:</h3>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
