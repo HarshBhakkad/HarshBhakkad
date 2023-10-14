@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshbhakkad" alt="harshbhakkad" /></a> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **ML & RL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshBhakkad](https://github.com/HarshBhakkad)
 
