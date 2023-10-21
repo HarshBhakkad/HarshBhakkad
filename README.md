@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshBhakkad](https://github.com/HarshBhakkad)
 
-- 💬 Ask me about **AWS, ALgorithms, Flutter**
+- 💬 Ask me about **AWS, Algorithms, Flutter**
 
 - 📫 How to reach me **bhakkadharsh@gmail.com**
 
